@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "102829203232",
+    "project_id": "utaustin-cdso",
+    "storage_bucket": "utaustin-cdso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102829203232:android:59a8e6bbb0aa4900178145",
+        "android_client_info": {
+          "package_name": "edu.utap.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcpKNc1YUmPjhRQyaNIjMsq_gFB0VL-qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102829203232:android:ebd14803049bced1178145",
+        "android_client_info": {
+          "package_name": "edu.utap.photolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcpKNc1YUmPjhRQyaNIjMsq_gFB0VL-qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102829203232:android:166ab25a173c79e4178145",
+        "android_client_info": {
+          "package_name": "edu.utexas.wheretogo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcpKNc1YUmPjhRQyaNIjMsq_gFB0VL-qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
